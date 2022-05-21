@@ -1,1 +1,1 @@
-# Iamge
+# Image
